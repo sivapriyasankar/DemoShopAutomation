@@ -1,0 +1,3 @@
+com\test\DemoShop\pages\Productpage.class
+com\test\DemoShop\pages\BasePage.class
+com\tests\utils\WebdriverManager.class
